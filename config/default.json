@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0",
+  "port": 3000,
+  "log": "debug",
+  "database": {
+    "url": "postgresql://postgres:@127.0.0.1:5434/node_crud"
+  }
+}
